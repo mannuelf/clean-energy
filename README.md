@@ -4,7 +4,7 @@
 
 **Theme:** The Global Energy Transition — *"Are we actually moving?"*
 
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/views/Sustainable-energy-clean/Dashboard1)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/mannuel.ferreira/viz/TheGlobalEnergyTransition/GlobalEnergyTransition)
 
 ![Global Sustainable Energy Dashboard](global-energy-transition.png)
 
