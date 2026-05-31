@@ -1,0 +1,172 @@
+Country,RenewableShare2000,RenewableShare2019,DeltaPP,GDPPerCapita,IncomeBand,Continent
+Afghanistan,44.99,18.51,-26.48,494.18,Low,Asia
+Algeria,0.43,0.16,-0.27,3989.67,Lower-Middle,Africa
+Angola,73.44,54.69,-18.75,2809.63,Lower-Middle,Africa
+Antigua and Barbuda,0.0,0.91,0.91,17376.65,High,North America
+Argentina,9.85,10.74,0.89,10056.64,Upper-Middle,South America
+Armenia,7.16,10.34,3.18,4604.65,Upper-Middle,Asia
+Aruba,0.18,7.48,7.3,,,North America
+Australia,8.42,10.13,1.71,54875.29,High,Oceania
+Austria,26.44,33.77,7.33,50114.4,High,Europe
+Azerbaijan,2.07,1.62,-0.45,4805.75,Upper-Middle,Asia
+Bahamas,0.0,1.14,1.14,,,North America
+Bahrain,0.0,0.0,0.0,23551.93,High,Asia
+Bangladesh,59.06,24.75,-34.31,1855.74,Lower-Middle,Asia
+Barbados,14.32,4.31,-10.01,18148.5,High,North America
+Belarus,5.65,7.83,2.18,6837.72,Upper-Middle,Europe
+Belgium,1.44,10.21,8.77,46591.49,High,Europe
+Belize,34.55,29.09,-5.46,5078.81,Upper-Middle,North America
+Benin,70.29,46.47,-23.82,1219.52,Lower-Middle,Africa
+Bermuda,0.46,0.84,0.38,117098.45,High,North America
+Bhutan,91.4,82.27,-9.13,3322.86,Lower-Middle,Asia
+Bosnia and Herzegovina,19.35,37.02,17.67,6119.76,Upper-Middle,Europe
+Botswana,38.46,25.57,-12.89,7203.06,Upper-Middle,Africa
+Brazil,42.66,47.57,4.91,8897.55,Upper-Middle,South America
+Bulgaria,7.97,19.34,11.37,9879.27,Upper-Middle,Europe
+Burkina Faso,85.41,64.85,-20.56,796.12,Low,Africa
+Burundi,93.23,84.77,-8.46,228.21,Low,Africa
+Cambodia,81.58,53.36,-28.22,1643.12,Lower-Middle,Asia
+Cameroon,84.59,79.41,-5.18,1533.1,Lower-Middle,Africa
+Canada,22.04,22.11,0.07,46338.34,High,North America
+Cayman Islands,0.0,0.0,0.0,91392.64,High,North America
+Central African Republic,88.9,91.26,2.36,467.91,Low,Africa
+Chad,88.7,77.79,-10.91,709.54,Low,Africa
+Chile,31.36,25.26,-6.1,14741.71,High,South America
+China,29.63,14.45,-15.18,10143.84,Upper-Middle,Asia
+Colombia,28.03,30.72,2.69,6424.98,Upper-Middle,South America
+Comoros,69.87,53.43,-16.44,1401.54,Lower-Middle,Africa
+Congo,64.86,68.67,3.81,,,Africa
+Costa Rica,32.95,35.76,2.81,12693.83,Upper-Middle,North America
+Croatia,26.76,31.6,4.84,15311.77,High,Europe
+Cuba,34.43,21.54,-12.89,9125.88,Upper-Middle,North America
+Cyprus,3.08,12.05,8.97,29206.08,High,Asia
+Czechia,5.94,15.85,9.91,,,Europe
+Denmark,10.73,37.52,26.79,59775.74,High,Europe
+Djibouti,31.44,27.92,-3.52,3414.92,Lower-Middle,Africa
+Dominica,11.06,8.05,-3.01,8516.28,Upper-Middle,North America
+Dominican Republic,19.11,13.98,-5.13,8282.12,Upper-Middle,North America
+Ecuador,19.43,17.73,-1.7,6222.52,Upper-Middle,South America
+Egypt,8.26,5.3,-2.96,,,Africa
+El Salvador,33.51,19.39,-14.12,4167.73,Lower-Middle,North America
+Equatorial Guinea,45.85,6.58,-39.27,8419.93,Upper-Middle,Africa
+Eritrea,76.62,73.67,-2.95,,,Africa
+Estonia,19.83,31.29,11.46,23397.12,High,Europe
+Eswatini,59.39,65.95,6.56,3915.64,Lower-Middle,Africa
+Ethiopia,95.55,88.92,-6.63,855.76,Low,Africa
+Fiji,50.06,26.48,-23.58,6175.89,Upper-Middle,Oceania
+Finland,31.68,45.76,14.08,48628.64,High,Europe
+France,9.32,15.53,6.21,40578.64,High,Europe
+Gabon,72.78,89.88,17.1,7767.0,Upper-Middle,Africa
+Gambia,62.86,49.24,-13.62,,,Africa
+Georgia,47.25,25.22,-22.03,4697.98,Upper-Middle,Asia
+Germany,3.7,17.17,13.47,46794.9,High,Europe
+Ghana,71.62,41.8,-29.82,2246.63,Lower-Middle,Africa
+Greece,7.82,18.51,10.69,19133.76,High,Europe
+Grenada,10.5,10.37,-0.13,10827.44,Upper-Middle,North America
+Guatemala,62.75,62.92,0.17,4638.63,Upper-Middle,North America
+Guinea,85.52,65.44,-20.08,1058.14,Low,Africa
+Guinea-Bissau,91.24,86.24,-5.0,749.45,Low,Africa
+Guyana,29.75,11.35,-18.4,6609.51,Upper-Middle,South America
+Haiti,80.85,76.4,-4.45,1312.77,Lower-Middle,North America
+Honduras,55.24,45.96,-9.28,2556.46,Lower-Middle,North America
+Hungary,5.17,13.64,8.47,16735.66,High,Europe
+Iceland,60.66,81.07,20.41,68941.46,High,Europe
+India,46.88,32.93,-13.95,2100.75,Lower-Middle,Asia
+Indonesia,45.62,19.09,-26.53,4135.2,Lower-Middle,Asia
+Iraq,0.36,0.43,0.07,5980.63,Upper-Middle,Asia
+Ireland,2.04,12.34,10.3,80886.62,High,Europe
+Israel,5.96,4.47,-1.49,43951.25,High,Asia
+Italy,5.12,17.27,12.15,33641.63,High,Europe
+Jamaica,9.37,9.09,-0.28,5369.5,Upper-Middle,North America
+Japan,3.7,7.69,3.99,40777.61,High,Asia
+Jordan,2.09,8.17,6.08,4405.49,Upper-Middle,Asia
+Kazakhstan,2.5,1.7,-0.8,9812.6,Upper-Middle,Asia
+Kenya,78.86,68.08,-10.78,1912.65,Lower-Middle,Africa
+Kiribati,55.85,41.03,-14.82,1601.86,Lower-Middle,Oceania
+Kuwait,0.0,0.06,0.06,32373.25,High,Asia
+Kyrgyzstan,35.16,27.88,-7.28,,,Asia
+Latvia,35.82,41.52,5.7,17926.84,High,Europe
+Lebanon,4.89,5.46,0.57,7578.17,Upper-Middle,Asia
+Lesotho,56.7,39.47,-17.23,1113.37,Lower-Middle,Africa
+Liberia,90.88,87.24,-3.64,672.34,Low,Africa
+Libya,2.04,2.8,0.76,7685.95,Upper-Middle,Africa
+Lithuania,17.19,33.53,16.34,19575.77,High,Europe
+Luxembourg,6.81,16.45,9.64,113218.71,High,Europe
+Madagascar,82.62,82.77,0.15,522.99,Low,Africa
+Malawi,82.62,73.02,-9.6,591.85,Low,Africa
+Malaysia,4.44,5.11,0.67,11432.82,Upper-Middle,Asia
+Maldives,2.34,1.11,-1.23,10561.61,Upper-Middle,Asia
+Mali,83.47,76.64,-6.83,879.04,Low,Africa
+Malta,0.0,7.7,7.7,30186.2,High,Europe
+Mauritania,44.41,24.7,-19.71,1743.3,Lower-Middle,Africa
+Mauritius,20.42,8.94,-11.48,11097.17,Upper-Middle,Africa
+Mexico,12.17,10.34,-1.83,9950.45,Upper-Middle,North America
+Mongolia,5.73,3.32,-2.41,4404.85,Upper-Middle,Asia
+Morocco,15.26,10.69,-4.57,3235.0,Lower-Middle,Africa
+Mozambique,93.64,78.08,-15.56,506.64,Low,Africa
+Myanmar,80.17,57.85,-22.32,1271.11,Lower-Middle,Asia
+Namibia,34.73,30.69,-4.04,5009.69,Upper-Middle,Africa
+Nauru,0.0,0.61,0.61,11029.74,Upper-Middle,Oceania
+Nepal,88.29,77.39,-10.9,1194.96,Lower-Middle,Asia
+Netherlands,1.73,8.54,6.81,52476.27,High,Europe
+New Caledonia,7.54,5.4,-2.14,34788.53,High,Oceania
+New Zealand,29.13,29.65,0.52,42755.22,High,Oceania
+Nicaragua,58.42,50.71,-7.71,1926.7,Lower-Middle,North America
+Niger,87.62,80.83,-6.79,554.1,Low,Africa
+Nigeria,86.21,81.4,-4.81,2229.86,Lower-Middle,Africa
+North Macedonia,19.38,16.32,-3.06,6070.39,Upper-Middle,Europe
+Norway,60.18,62.37,2.19,75719.75,High,Europe
+Oman,0.0,0.0,0.0,17700.7,High,Asia
+Pakistan,51.05,43.36,-7.69,1288.56,Lower-Middle,Asia
+Panama,27.67,18.91,-8.76,15774.25,High,North America
+Papua New Guinea,66.38,53.09,-13.29,2820.31,Lower-Middle,Oceania
+Paraguay,70.41,60.09,-10.32,5380.96,Upper-Middle,South America
+Peru,38.57,27.12,-11.45,7027.61,Upper-Middle,South America
+Philippines,33.42,26.73,-6.69,3485.34,Lower-Middle,Asia
+Poland,6.93,12.18,5.25,15732.2,High,Europe
+Portugal,20.12,28.19,8.07,23330.82,High,Europe
+Puerto Rico,0.55,2.42,1.87,32850.55,High,North America
+Qatar,0.08,0.04,-0.04,62276.43,High,Asia
+Romania,16.37,23.54,7.17,12899.35,Upper-Middle,Europe
+Rwanda,86.78,77.86,-8.92,820.15,Low,Africa
+Saint Kitts and Nevis,26.64,1.58,-25.06,,,North America
+Saint Lucia,24.05,9.75,-14.3,,,North America
+Saint Vincent and the Grenadines,8.49,5.68,-2.81,,,North America
+Samoa,59.69,34.21,-25.48,4322.87,Upper-Middle,Oceania
+Sao Tome and Principe,54.73,37.09,-17.64,1987.58,Lower-Middle,Africa
+Saudi Arabia,0.01,0.03,0.02,23139.8,High,Asia
+Senegal,47.52,37.2,-10.32,1430.15,Lower-Middle,Africa
+Seychelles,1.52,1.47,-0.05,16213.48,High,Africa
+Sierra Leone,91.31,75.44,-15.87,521.75,Low,Africa
+Singapore,0.33,0.84,0.51,65640.71,High,Asia
+Slovakia,3.73,17.64,13.91,,,Europe
+Slovenia,17.96,20.86,2.9,25942.95,High,Europe
+Solomon Islands,55.26,48.39,-6.87,2344.05,Lower-Middle,Oceania
+Somalia,93.28,95.03,1.75,419.39,Low,Africa
+South Africa,16.25,10.5,-5.75,6624.76,Upper-Middle,Africa
+Spain,7.88,17.27,9.39,29555.32,High,Europe
+Sri Lanka,64.16,49.91,-14.25,3852.27,Lower-Middle,Asia
+Sudan,80.42,62.23,-18.19,610.93,Low,Africa
+Suriname,23.63,14.4,-9.23,6853.69,Upper-Middle,South America
+Sweden,39.82,52.88,13.06,51939.43,High,Europe
+Switzerland,18.19,24.76,6.57,85334.52,High,Europe
+Tajikistan,62.41,38.56,-23.85,890.54,Low,Asia
+Thailand,21.82,23.96,2.14,7817.01,Upper-Middle,Asia
+Togo,77.11,76.21,-0.9,893.35,Low,Africa
+Tonga,2.48,1.77,-0.71,4903.01,Upper-Middle,Oceania
+Trinidad and Tobago,0.76,0.43,-0.33,16637.16,High,North America
+Tunisia,14.24,12.2,-2.04,3574.65,Lower-Middle,Africa
+Turkey,17.29,14.12,-3.17,9121.52,Upper-Middle,Asia
+Turkmenistan,0.09,0.06,-0.03,7612.04,Upper-Middle,Asia
+Tuvalu,0.0,8.2,8.2,4055.9,Lower-Middle,Oceania
+Uganda,95.01,90.22,-4.79,798.59,Low,Africa
+Ukraine,1.25,7.44,6.19,3661.46,Lower-Middle,Europe
+United Arab Emirates,0.08,0.67,0.59,42701.44,High,Asia
+United Kingdom,0.96,12.24,11.28,43070.5,High,Europe
+United States,5.43,10.42,4.99,65279.53,High,North America
+Uruguay,38.73,60.76,22.03,17688.02,High,South America
+Uzbekistan,0.72,1.57,0.85,1784.01,Lower-Middle,Asia
+Vanuatu,48.65,31.86,-16.79,3116.3,Lower-Middle,Oceania
+Yemen,0.95,3.11,2.16,,,Asia
+Zambia,89.98,84.5,-5.48,1305.0,Lower-Middle,Africa
+Zimbabwe,69.26,81.5,12.24,1316.74,Lower-Middle,Africa
